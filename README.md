@@ -1,4 +1,13 @@
-Tablic Card Game created with React and Redux 
+###### Tablic Card Game created with React and Redux ######
+
+
+
+
+
+
+
+
+
 
 
 
